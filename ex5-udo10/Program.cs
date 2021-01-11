@@ -154,10 +154,10 @@ namespace ex5_udo10
                 static void Main()
                 {
                     Serie S0 = new Serie("Bola de drac", 11, "Anime", "Akira Toriyama");
-                    Serie S1 = new Serie("House M.D.", 8, "Drama", "David Shore");
+                    Serie S1 = new Serie("Juego de tronos", 8, "Drama", "David Benioff");
                     Serie S2 = new Serie("Breaking Bad", 5, "Tragedia", "Vince Gilligan");
-                    Serie S3 = new Serie("Black Adder", 4, "Comedia", "Richard Curtis Rowan Atkinson");
-                    Serie S4 = new Serie("House of Cards", 6, "Drama", "Beau Willimon");
+                    Serie S3 = new Serie("Santa Clarita Diet", 3, "Comedia de terror", "Victor Fresco");
+                    Serie S4 = new Serie("The walking dead", 10, "Terror", "Frank Darabont");
                     Videojuego V0 = new Videojuego("Vampire The Masquerade. The Bloodlines", 30, "Rol", "Troika Games");
                     Videojuego V1 = new Videojuego("The Witcher 3: Wild Hunt", 220, "Rol", "CD Projekt RED");
                     Videojuego V2 = new Videojuego("Baldur's Gate 2", 80, "Rol", "Bioware Corp.");
